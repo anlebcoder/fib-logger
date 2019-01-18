@@ -1,0 +1,14 @@
+{
+	"name": "fib-logger",
+	"version": "0.0.4",
+	"description": "server log for fibjs",
+	"main": "index.js",
+	"scripts": {
+		"test": "fibjs test.js"
+	},
+	"keywords": [
+		"fibjs",
+		"log"
+	],
+	"license": "ISC"
+}
